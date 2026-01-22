@@ -62,13 +62,7 @@ div{
     border-radius: 8px;
 }
 
-.imagens {
-    display: flex;
-    flex-direction: column;
-    gap: 16px;
-}
-
-.imagens img {
+img {
     display: block;
     margin: 24px auto;
     width: 100%;
