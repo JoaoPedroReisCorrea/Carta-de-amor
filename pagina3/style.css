@@ -70,6 +70,13 @@ img {
     border-radius: 8px;
 }
 
+.seta img{
+    margin-top: 3rem;
+    width: 5rem;
+    height: 5rem;
+    text-align: left;
+}
+
 @media (max-width: 480px) {
 
     .container {
